@@ -1,6 +1,6 @@
 Overview for Ansible CI/CD use case
 
-** ============== **
+==============
 
 
 
@@ -12,7 +12,7 @@ Contents may be continuously added and enhanced.
 
 Introduction
 
-** -------------- **
+-------------- 
 
 This set of playbooks demonstrate a full cycle of CI/CD process on IBM i. 
 
@@ -38,13 +38,13 @@ Playbooks
 
 
 
-** ### Example **
+### Example
 
 
 
-\```
+```
 
 ansible-playbook -i hosts.ini ./main.yml
 
-\```
+```
 
