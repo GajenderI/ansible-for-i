@@ -1,5 +1,4 @@
 Overview for Ansible CI/CD use case
-
 ==============
 
 
