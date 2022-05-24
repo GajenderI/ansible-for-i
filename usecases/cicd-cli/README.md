@@ -1,6 +1,6 @@
 Overview for Ansible CI/CD use case
 
-**==============**
+** ============== **
 
 
 
@@ -12,7 +12,7 @@ Contents may be continuously added and enhanced.
 
 Introduction
 
-**--------------**
+** -------------- **
 
 This set of playbooks demonstrate a full cycle of CI/CD process on IBM i. 
 
@@ -23,7 +23,7 @@ This set of playbooks demonstrate a full cycle of CI/CD process on IBM i.
 
 Playbooks
 
-**--------------**
+** -------------- **
 
 1. host.ini - define your existing build machine info or the compute  instance info you want to create in building
 2. main.yml - starting point of the process.
@@ -38,7 +38,7 @@ Playbooks
 
 
 
-**### Example**
+** ### Example **
 
 
 
